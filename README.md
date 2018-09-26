@@ -13,4 +13,4 @@ The two applications web site and WCF service published on IIS and configured to
 
 ## Note
 in step 5.
-needed to change keys using ### RSA
+needed to change keys using RSA
