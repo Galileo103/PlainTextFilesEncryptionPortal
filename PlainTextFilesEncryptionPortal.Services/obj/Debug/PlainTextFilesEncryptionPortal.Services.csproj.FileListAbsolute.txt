@@ -1,0 +1,5 @@
+C:\Users\Galileo\documents\visual studio 2013\Projects\PlainTextFilesEncryptionPortal\PlainTextFilesEncryptionPortal.Services\bin\Debug\PlainTextFilesEncryptionPortal.Services.dll.config
+C:\Users\Galileo\documents\visual studio 2013\Projects\PlainTextFilesEncryptionPortal\PlainTextFilesEncryptionPortal.Services\bin\Debug\PlainTextFilesEncryptionPortal.Services.dll
+C:\Users\Galileo\documents\visual studio 2013\Projects\PlainTextFilesEncryptionPortal\PlainTextFilesEncryptionPortal.Services\bin\Debug\PlainTextFilesEncryptionPortal.Services.pdb
+C:\Users\Galileo\documents\visual studio 2013\Projects\PlainTextFilesEncryptionPortal\PlainTextFilesEncryptionPortal.Services\obj\Debug\PlainTextFilesEncryptionPortal.Services.dll
+C:\Users\Galileo\documents\visual studio 2013\Projects\PlainTextFilesEncryptionPortal\PlainTextFilesEncryptionPortal.Services\obj\Debug\PlainTextFilesEncryptionPortal.Services.pdb

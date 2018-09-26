@@ -1,0 +1,6 @@
+C:\Users\Galileo\documents\visual studio 2013\Projects\PlainTextFilesEncryptionPortal\PlainTextFilesEncryptionPortal.Services\bin\Release\PlainTextFilesEncryptionPortal.Services.dll.config
+C:\Users\Galileo\documents\visual studio 2013\Projects\PlainTextFilesEncryptionPortal\PlainTextFilesEncryptionPortal.Services\bin\Release\PlainTextFilesEncryptionPortal.Services.dll
+C:\Users\Galileo\documents\visual studio 2013\Projects\PlainTextFilesEncryptionPortal\PlainTextFilesEncryptionPortal.Services\bin\Release\PlainTextFilesEncryptionPortal.Services.pdb
+C:\Users\Galileo\documents\visual studio 2013\Projects\PlainTextFilesEncryptionPortal\PlainTextFilesEncryptionPortal.Services\obj\Release\PlainTextFilesEncryptionPortal.Services.csprojResolveAssemblyReference.cache
+C:\Users\Galileo\documents\visual studio 2013\Projects\PlainTextFilesEncryptionPortal\PlainTextFilesEncryptionPortal.Services\obj\Release\PlainTextFilesEncryptionPortal.Services.dll
+C:\Users\Galileo\documents\visual studio 2013\Projects\PlainTextFilesEncryptionPortal\PlainTextFilesEncryptionPortal.Services\obj\Release\PlainTextFilesEncryptionPortal.Services.pdb

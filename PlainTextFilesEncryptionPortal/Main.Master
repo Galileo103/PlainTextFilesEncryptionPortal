@@ -1,0 +1,45 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="PlainTextFilesEncryptionPortal.Main" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="CPH_Head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            height: 162px;
+        }
+        .auto-style3 {
+            height: 96px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+
+        <table class="auto-style1">
+                <tr>
+                    <td style="text-align:center;font-size:48px " class="auto-style2">
+                        <b>
+                        <asp:Label ID="Main_Label" runat="server" Text="Plain Text Files Encryption Portal"></asp:Label>
+                        </b>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style3"></td>
+                </tr>
+            </table>
+       
+        <asp:ContentPlaceHolder ID="CPH_Content" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>
